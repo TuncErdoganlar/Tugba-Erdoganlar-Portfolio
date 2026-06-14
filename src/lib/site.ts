@@ -3,8 +3,7 @@
 export const site = {
   name: "Tuğba Erdoğanlar",
   email: "tugbaerdoganlar@gmail.com",
-  // Placeholder — replace with the real LinkedIn URL when available.
-  linkedin: "https://www.linkedin.com/",
+  linkedin: "https://www.linkedin.com/in/tu%C4%9Fba-erdo%C4%9Fanlar-156aab14/",
   cvPath: "/cv.pdf",
   url: "https://tugba-site.vercel.app",
   sections: ["about", "experience", "therapeutic", "training", "contact"] as const,
