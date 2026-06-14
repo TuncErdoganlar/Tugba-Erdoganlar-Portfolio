@@ -1,0 +1,299 @@
+{
+  "meta": {
+    "title": "Tuğba Erdoğanlar — Senior Clinical Research Associate",
+    "description": "Senior Clinical Research Associate with nearly two decades of experience in monitoring and managing clinical trials across leading CROs and sponsors — oncology, nephrology, cardiovascular, medical devices and more, Phase I–IV."
+  },
+  "nav": {
+    "about": "About",
+    "experience": "Experience",
+    "therapeutic": "Therapeutic Areas",
+    "training": "Training",
+    "contact": "Contact",
+    "downloadCv": "Download CV",
+    "menu": "Menu",
+    "skip": "Skip to content"
+  },
+  "hero": {
+    "name": "Tuğba Erdoğanlar",
+    "title": "Senior Clinical Research Associate",
+    "tagline": "Nearly two decades monitoring and managing clinical trials — from site feasibility and start-up through monitoring and close-out — across a broad therapeutic landscape.",
+    "location": "İzmir, Türkiye",
+    "email": "Email",
+    "linkedin": "LinkedIn",
+    "downloadCv": "Download CV",
+    "viewExperience": "View experience"
+  },
+  "stats": {
+    "heading": "At a glance",
+    "years": { "value": "~20", "label": "Years in clinical research" },
+    "studies": { "value": "30+", "label": "Clinical studies monitored" },
+    "areas": { "value": "15+", "label": "Therapeutic areas" },
+    "phases": { "value": "I–IV", "label": "Trial phases" }
+  },
+  "about": {
+    "heading": "Profile",
+    "p1": "Senior Clinical Research Associate with nearly two decades of experience in the monitoring and management of clinical trials across leading CROs and sponsors. Broad therapeutic expertise spanning oncology, nephrology, cardiovascular, infectious disease, vaccines and medical devices, with deep command of ICH-GCP, SOPs and EC/MoH regulatory submissions in Türkiye and internationally.",
+    "p2": "Experienced across Phase I–IV studies — from site feasibility and start-up through routine monitoring and close-out. A chemical-engineering background underpins a rigorous, detail-driven and quality-focused approach to every trial."
+  },
+  "experience": {
+    "heading": "Professional Experience",
+    "intro": "Two decades across leading clinical research organisations and sponsors.",
+    "present": "Present",
+    "roles": [
+      {
+        "date": "Jun 2024 – Present",
+        "company": "ICON",
+        "position": "Senior Clinical Research Associate",
+        "items": [
+          "Routine site monitoring and close-out of clinical sites per Sponsor SOPs, ICH Guidelines and GCP.",
+          "Conduct of pre-study and site initiation visits; maintenance of study files."
+        ]
+      },
+      {
+        "date": "Feb 2023 – Jun 2024",
+        "company": "IQVIA",
+        "position": "Freelance Senior Clinical Research Associate",
+        "items": [
+          "Full-cycle site monitoring — routine through close-out — for clinical studies per Sponsor SOPs, ICH Guidelines and GCP.",
+          "Pre-study and initiation visits; oversight of study files and data quality."
+        ]
+      },
+      {
+        "date": "May 2020 – May 2023",
+        "company": "PSI",
+        "position": "Freelance Senior Clinical Research Associate",
+        "items": [
+          "Ethics Committee (EC) and Ministry of Health (MoH) submissions and IVDR application support.",
+          "End-to-end site monitoring per Sponsor SOPs, ICH Guidelines and GCP, including study-file maintenance."
+        ]
+      },
+      {
+        "date": "Jun 2019 – Dec 2019",
+        "company": "Covance Ltd.",
+        "position": "Senior Clinical Research Associate",
+        "items": [
+          "Site monitoring and site management per Sponsor SOPs, ICH Guidelines and GCP.",
+          "Pre-study and initiation visits; routine monitoring, close-out and study-file maintenance."
+        ]
+      },
+      {
+        "date": "Aug 2017 – Oct 2018",
+        "company": "Inventiv Health Ltd.",
+        "position": "Study Start-up Specialist",
+        "items": [
+          "EC and MoH submissions and IVDR applications.",
+          "Preparation and maintenance of start-up documents, Site Files and Trial Master Files.",
+          "Liaison with regulatory authorities; updates to Protocol, ICF, CRF and study-related documents."
+        ]
+      },
+      {
+        "date": "Jan 2015 – Aug 2017",
+        "company": "Occlutech Ltd.",
+        "position": "Consultant",
+        "items": [
+          "Managed the clinical monitoring process and administration of medical-device trials.",
+          "EC and MoH submissions and IVDR applications; organisation of Site Files and Trial Master Files.",
+          "Authored and updated Protocols, ICFs, CRFs and SOPs."
+        ]
+      },
+      {
+        "date": "Oct 2009 – Jan 2015",
+        "company": "Cromnia CRO",
+        "position": "Clinical Research Manager",
+        "items": [
+          "Led the clinical monitoring process and the administration of clinical trials.",
+          "Supervised CRAs across in-house and on-site monitoring, filing and trial administration.",
+          "Managed regulatory submissions and CRO/supplier relationships; ensured adherence to SOPs, GCP and Turkish regulations."
+        ]
+      },
+      {
+        "date": "May 2007 – Aug 2009",
+        "company": "Kuantum CRO",
+        "position": "Senior CRA",
+        "items": [
+          "On-site and co-monitoring visits; EC and regulatory-authority submissions.",
+          "Site feasibility, identification and selection; site, center and core file management."
+        ]
+      },
+      {
+        "date": "Oct 2005 – May 2007",
+        "company": "Kuantum CRO",
+        "position": "CRA / CTA",
+        "items": [
+          "Study monitoring and liaison with regulatory authorities.",
+          "Import and export of clinical trial materials, study drugs and biological samples per customs procedures."
+        ]
+      },
+      {
+        "date": "Aug 2004 – Oct 2005",
+        "company": "Hurok Marble Turkey",
+        "position": "Export Department Leader",
+        "items": [
+          "Client sales contact and preparation of export documentation.",
+          "Verification of bank documents and customs declaration documents."
+        ]
+      },
+      {
+        "date": "Dec 2001 – Jun 2003",
+        "company": "Atlas Energy Company",
+        "position": "Project Administrative",
+        "items": [
+          "Supported the preparation of proposals and project documents.",
+          "Technical project translation and research-based reporting."
+        ]
+      }
+    ]
+  },
+  "therapeutic": {
+    "heading": "Therapeutic & Study Experience",
+    "intro": "A broad therapeutic footprint built over 30+ studies — filter by area or phase to explore.",
+    "filterArea": "Therapeutic area",
+    "filterPhase": "Phase",
+    "all": "All",
+    "reset": "Reset filters",
+    "showing": "Showing {count} of {total} studies",
+    "col": {
+      "area": "Therapeutic area",
+      "indication": "Indication",
+      "phase": "Phase",
+      "sites": "Sites",
+      "location": "Location"
+    },
+    "phaseLabel": "Phase {phase}",
+    "sitesLabel": "{count} sites",
+    "area": {
+      "oncology": "Oncology",
+      "nephrology": "Nephrology",
+      "hematology": "Hematology",
+      "cardiovascular": "Cardiovascular",
+      "infectiousDisease": "Infectious Disease",
+      "neurology": "Neurology",
+      "ophthalmology": "Ophthalmology",
+      "dermatology": "Dermatology",
+      "respiratory": "Respiratory",
+      "gastroenterology": "Gastroenterology",
+      "rheumatology": "Rheumatology",
+      "orthopaedics": "Orthopaedics",
+      "vaccinesImmunology": "Vaccines / Immunology",
+      "childrensMentalHealth": "Children's Mental Health",
+      "medicalDevice": "Medical Device"
+    },
+    "loc": {
+      "TR": "Türkiye",
+      "DE": "Germany",
+      "GB": "England"
+    }
+  },
+  "education": {
+    "heading": "Education",
+    "degree": "BSc, Chemical Engineering",
+    "institution": "Ege University, Faculty of Engineering",
+    "detail": "English-medium programme · İzmir, Türkiye",
+    "year": "2003"
+  },
+  "training": {
+    "heading": "Training & Certifications",
+    "intro": "Continuous professional development across GCP, regulatory practice and quality systems.",
+    "showMore": "Show all",
+    "showLess": "Show less",
+    "groups": [
+      {
+        "title": "GCP & Clinical Standards",
+        "items": [
+          "ICH-GCP & SOP training — ICON, IQVIA, PSI, Covance / Merck, Pfizer",
+          "ICH-GCP — AKADEMIKA",
+          "GCP & Monitoring in Drug Clinical Research — ARGEFAR",
+          "Declaration of Helsinki training",
+          "CRA Training I & II",
+          "Fraud & Misconduct in Clinical Trials",
+          "Review of Terminology in Clinical Research"
+        ]
+      },
+      {
+        "title": "Regulatory",
+        "items": [
+          "EC / MoH submissions in Türkiye",
+          "New clinical-research regulations",
+          "MDD 2007/47/EC — Istanbul Chamber of Industry",
+          "ICH guidelines",
+          "IVDR / MDD application practice"
+        ]
+      },
+      {
+        "title": "Study & Investigator Meetings",
+        "items": [
+          "Investigator & Monitor Meetings — protocol, IMP handling, e-CRF, SAE reporting",
+          "RDC Workshop",
+          "LAA Conference — catheter-based left atrial appendage closure",
+          "International team study meetings"
+        ]
+      },
+      {
+        "title": "Quality & Professional Development",
+        "items": [
+          "ISO 9000 / ISO 9001:2000 Quality Management Systems",
+          "Internal Auditor Course",
+          "Statistical Process Control",
+          "Hazard Analysis Critical Control (HACCP)",
+          "5S Principles",
+          "Time Management",
+          "Leadership & Motivation",
+          "Problem-Solving Methods",
+          "Work & Person Relations — Elginkan Foundation"
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "heading": "Skills & Languages",
+    "clinical": {
+      "title": "Clinical",
+      "items": [
+        "ICH-GCP",
+        "Clinical Monitoring (routine & close-out)",
+        "Site Management",
+        "Study Start-up",
+        "Trial Master File & Site / Core Files",
+        "Pre-study & Initiation Visits",
+        "Site Feasibility & Selection"
+      ]
+    },
+    "regulatory": {
+      "title": "Regulatory",
+      "items": [
+        "Ethics Committee (EC) & MoH Submissions",
+        "IVDR / MDD Applications",
+        "Regulatory Authority Liaison",
+        "Protocol / ICF / CRF Authoring",
+        "SOP Development"
+      ]
+    },
+    "languages": {
+      "title": "Languages",
+      "items": ["English — fluent (verbal, written, technical)", "French — A1"]
+    },
+    "software": {
+      "title": "Software",
+      "items": ["Microsoft Office (Word, Excel, PowerPoint)"]
+    }
+  },
+  "contact": {
+    "heading": "Get in touch",
+    "intro": "Open to senior clinical research opportunities and collaborations. The best way to reach me is by email or LinkedIn.",
+    "emailLabel": "Email",
+    "linkedinLabel": "LinkedIn",
+    "locationLabel": "Location",
+    "location": "İzmir, Türkiye",
+    "emailCta": "Send an email"
+  },
+  "footer": {
+    "tagline": "Senior Clinical Research Associate",
+    "rights": "All rights reserved.",
+    "email": "Email",
+    "linkedin": "LinkedIn"
+  },
+  "notFound": {
+    "message": "This page could not be found.",
+    "home": "Go home"
+  }
+}

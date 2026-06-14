@@ -1,0 +1,299 @@
+{
+  "meta": {
+    "title": "Tuğba Erdoğanlar — Kıdemli Klinik Araştırma Uzmanı",
+    "description": "Önde gelen CRO'lar ve sponsorlarda yaklaşık yirmi yıllık klinik araştırma izleme ve yönetim deneyimine sahip Kıdemli Klinik Araştırma Uzmanı — onkoloji, nefroloji, kardiyovasküler, tıbbi cihazlar ve daha fazlası, Faz I–IV."
+  },
+  "nav": {
+    "about": "Hakkında",
+    "experience": "Deneyim",
+    "therapeutic": "Terapötik Alanlar",
+    "training": "Eğitimler",
+    "contact": "İletişim",
+    "downloadCv": "CV'yi İndir",
+    "menu": "Menü",
+    "skip": "İçeriğe geç"
+  },
+  "hero": {
+    "name": "Tuğba Erdoğanlar",
+    "title": "Kıdemli Klinik Araştırma Uzmanı",
+    "tagline": "Merkez fizibilitesi ve başlatmadan izleme ve kapanışa kadar — geniş bir terapötik yelpazede yaklaşık yirmi yıllık klinik araştırma izleme ve yönetim deneyimi.",
+    "location": "İzmir, Türkiye",
+    "email": "E-posta",
+    "linkedin": "LinkedIn",
+    "downloadCv": "CV'yi İndir",
+    "viewExperience": "Deneyime göz at"
+  },
+  "stats": {
+    "heading": "Bir bakışta",
+    "years": { "value": "~20", "label": "Yıl klinik araştırma" },
+    "studies": { "value": "30+", "label": "İzlenen klinik çalışma" },
+    "areas": { "value": "15+", "label": "Terapötik alan" },
+    "phases": { "value": "I–IV", "label": "Çalışma fazı" }
+  },
+  "about": {
+    "heading": "Profil",
+    "p1": "Önde gelen CRO'lar ve sponsorlarda yaklaşık yirmi yıllık klinik araştırma izleme ve yönetim deneyimine sahip Kıdemli Klinik Araştırma Uzmanı. Onkoloji, nefroloji, kardiyovasküler, enfeksiyon hastalıkları, aşılar ve tıbbi cihazlar dâhil geniş bir terapötik alanda; ICH-GCP, SOP'lar ve Türkiye ile uluslararası EC/MoH düzenleyici başvurularında derin uzmanlık.",
+    "p2": "Faz I–IV çalışmalarında — merkez fizibilitesi ve başlatmadan rutin izleme ve kapanışa kadar — deneyimli. Kimya mühendisliği altyapısı, her çalışmaya titiz, ayrıntı odaklı ve kaliteye dayalı bir yaklaşımın temelini oluşturuyor."
+  },
+  "experience": {
+    "heading": "Profesyonel Deneyim",
+    "intro": "Önde gelen klinik araştırma kuruluşları ve sponsorlarda yirmi yıl.",
+    "present": "Devam ediyor",
+    "roles": [
+      {
+        "date": "Haz 2024 – Devam ediyor",
+        "company": "ICON",
+        "position": "Kıdemli Klinik Araştırma Uzmanı",
+        "items": [
+          "Sponsor SOP'ları, ICH Kılavuzları ve GCP'ye uygun rutin saha izleme ve klinik merkezlerin kapanışı.",
+          "Çalışma öncesi ve başlatma ziyaretlerinin yürütülmesi; çalışma dosyalarının yönetimi."
+        ]
+      },
+      {
+        "date": "Şub 2023 – Haz 2024",
+        "company": "IQVIA",
+        "position": "Serbest Kıdemli Klinik Araştırma Uzmanı",
+        "items": [
+          "Sponsor SOP'ları, ICH Kılavuzları ve GCP'ye uygun, rutinden kapanışa tüm döngüde saha izleme.",
+          "Çalışma öncesi ve başlatma ziyaretleri; çalışma dosyaları ve veri kalitesinin gözetimi."
+        ]
+      },
+      {
+        "date": "May 2020 – May 2023",
+        "company": "PSI",
+        "position": "Serbest Kıdemli Klinik Araştırma Uzmanı",
+        "items": [
+          "Etik Kurul (EC) ve Sağlık Bakanlığı (MoH) başvuruları ve IVDR başvuru desteği.",
+          "Sponsor SOP'ları, ICH Kılavuzları ve GCP'ye uygun uçtan uca saha izleme ve çalışma dosyası yönetimi."
+        ]
+      },
+      {
+        "date": "Haz 2019 – Ara 2019",
+        "company": "Covance Ltd.",
+        "position": "Kıdemli Klinik Araştırma Uzmanı",
+        "items": [
+          "Sponsor SOP'ları, ICH Kılavuzları ve GCP'ye uygun saha izleme ve saha yönetimi.",
+          "Çalışma öncesi ve başlatma ziyaretleri; rutin izleme, kapanış ve çalışma dosyası yönetimi."
+        ]
+      },
+      {
+        "date": "Ağu 2017 – Eki 2018",
+        "company": "Inventiv Health Ltd.",
+        "position": "Çalışma Başlatma Uzmanı",
+        "items": [
+          "EC ve MoH başvuruları ve IVDR başvuruları.",
+          "Başlatma belgelerinin, Saha Dosyalarının ve Çalışma Ana Dosyalarının hazırlanması ve yönetimi.",
+          "Düzenleyici otoritelerle iletişim; Protokol, ICF, CRF ve çalışmaya ilişkin belgelerin güncellenmesi."
+        ]
+      },
+      {
+        "date": "Oca 2015 – Ağu 2017",
+        "company": "Occlutech Ltd.",
+        "position": "Danışman",
+        "items": [
+          "Tıbbi cihaz çalışmalarında klinik izleme sürecinin ve idaresinin yönetimi.",
+          "EC ve MoH başvuruları ve IVDR başvuruları; Saha Dosyaları ve Çalışma Ana Dosyalarının organizasyonu.",
+          "Protokol, ICF, CRF ve SOP'ların hazırlanması ve güncellenmesi."
+        ]
+      },
+      {
+        "date": "Eki 2009 – Oca 2015",
+        "company": "Cromnia CRO",
+        "position": "Klinik Araştırma Yöneticisi",
+        "items": [
+          "Klinik izleme sürecinin ve klinik çalışmaların idaresinin yönetimi.",
+          "CRA'ların yerinde ve saha içi izleme, dosyalama ve çalışma idaresi işlevlerinde süpervizyonu.",
+          "Düzenleyici başvuruların ve CRO/tedarikçi ilişkilerinin yönetimi; SOP, GCP ve Türkiye mevzuatına uyumun sağlanması."
+        ]
+      },
+      {
+        "date": "May 2007 – Ağu 2009",
+        "company": "Kuantum CRO",
+        "position": "Kıdemli CRA",
+        "items": [
+          "Saha içi ve ortak izleme ziyaretleri; EC ve düzenleyici otorite başvuruları.",
+          "Merkez fizibilitesi, belirlenmesi ve seçimi; saha, merkez ve çekirdek dosya yönetimi."
+        ]
+      },
+      {
+        "date": "Eki 2005 – May 2007",
+        "company": "Kuantum CRO",
+        "position": "CRA / CTA",
+        "items": [
+          "Çalışma izleme ve düzenleyici otoritelerle iletişim.",
+          "Gümrük prosedürlerine uygun olarak klinik araştırma malzemeleri, çalışma ilaçları ve biyolojik numunelerin ithalat ve ihracatı."
+        ]
+      },
+      {
+        "date": "Ağu 2004 – Eki 2005",
+        "company": "Hurok Marble Turkey",
+        "position": "İhracat Departmanı Lideri",
+        "items": [
+          "Müşteri satış iletişimi ve ihracat belgelerinin hazırlanması.",
+          "Banka belgelerinin ve gümrük beyanname belgelerinin kontrolü."
+        ]
+      },
+      {
+        "date": "Ara 2001 – Haz 2003",
+        "company": "Atlas Energy Company",
+        "position": "Proje İdari Sorumlusu",
+        "items": [
+          "Teklif ve proje belgelerinin hazırlanmasına destek.",
+          "Teknik proje çevirisi ve araştırmaya dayalı raporlama."
+        ]
+      }
+    ]
+  },
+  "therapeutic": {
+    "heading": "Terapötik ve Çalışma Deneyimi",
+    "intro": "30'dan fazla çalışmada oluşmuş geniş bir terapötik birikim — keşfetmek için alana veya faza göre filtreleyin.",
+    "filterArea": "Terapötik alan",
+    "filterPhase": "Faz",
+    "all": "Tümü",
+    "reset": "Filtreleri sıfırla",
+    "showing": "{total} çalışmadan {count} tanesi gösteriliyor",
+    "col": {
+      "area": "Terapötik alan",
+      "indication": "Endikasyon",
+      "phase": "Faz",
+      "sites": "Merkez",
+      "location": "Lokasyon"
+    },
+    "phaseLabel": "Faz {phase}",
+    "sitesLabel": "{count} merkez",
+    "area": {
+      "oncology": "Onkoloji",
+      "nephrology": "Nefroloji",
+      "hematology": "Hematoloji",
+      "cardiovascular": "Kardiyovasküler",
+      "infectiousDisease": "Enfeksiyon Hastalıkları",
+      "neurology": "Nöroloji",
+      "ophthalmology": "Oftalmoloji",
+      "dermatology": "Dermatoloji",
+      "respiratory": "Solunum / Pulmonoloji",
+      "gastroenterology": "Gastroenteroloji",
+      "rheumatology": "Romatoloji",
+      "orthopaedics": "Ortopedi",
+      "vaccinesImmunology": "Aşı / İmmünoloji",
+      "childrensMentalHealth": "Çocuk Ruh Sağlığı",
+      "medicalDevice": "Tıbbi Cihaz"
+    },
+    "loc": {
+      "TR": "Türkiye",
+      "DE": "Almanya",
+      "GB": "İngiltere"
+    }
+  },
+  "education": {
+    "heading": "Eğitim",
+    "degree": "Kimya Mühendisliği (Lisans)",
+    "institution": "Ege Üniversitesi, Mühendislik Fakültesi",
+    "detail": "İngilizce eğitim programı · İzmir, Türkiye",
+    "year": "2003"
+  },
+  "training": {
+    "heading": "Eğitimler ve Sertifikalar",
+    "intro": "GCP, düzenleyici uygulamalar ve kalite sistemleri genelinde sürekli profesyonel gelişim.",
+    "showMore": "Tümünü göster",
+    "showLess": "Daha az göster",
+    "groups": [
+      {
+        "title": "GCP ve Klinik Standartlar",
+        "items": [
+          "ICH-GCP ve SOP eğitimleri — ICON, IQVIA, PSI, Covance / Merck, Pfizer",
+          "ICH-GCP — AKADEMIKA",
+          "İlaç Klinik Araştırmalarında GCP ve İzleme — ARGEFAR",
+          "Helsinki Bildirgesi eğitimi",
+          "CRA Eğitimi I ve II",
+          "Klinik Araştırmalarda Hile ve Suistimal",
+          "Klinik Araştırma Terminolojisi İncelemesi"
+        ]
+      },
+      {
+        "title": "Düzenleyici",
+        "items": [
+          "Türkiye'de EC / MoH başvuruları",
+          "Yeni klinik araştırma düzenlemeleri",
+          "MDD 2007/47/EC — İstanbul Sanayi Odası",
+          "ICH kılavuzları",
+          "IVDR / MDD başvuru uygulamaları"
+        ]
+      },
+      {
+        "title": "Çalışma ve Araştırmacı Toplantıları",
+        "items": [
+          "Araştırmacı ve Monitör Toplantıları — protokol, IMP yönetimi, e-CRF, SAE raporlama",
+          "RDC Çalıştayı",
+          "LAA Konferansı — kateter bazlı sol atriyal apendiks kapatma",
+          "Uluslararası ekip çalışma toplantıları"
+        ]
+      },
+      {
+        "title": "Kalite ve Profesyonel Gelişim",
+        "items": [
+          "ISO 9000 / ISO 9001:2000 Kalite Yönetim Sistemleri",
+          "İç Denetçi Kursu",
+          "İstatistiksel Proses Kontrol",
+          "Tehlike Analizi Kritik Kontrol (HACCP)",
+          "5S Prensipleri",
+          "Zaman Yönetimi",
+          "Liderlik ve Motivasyon",
+          "Problem Çözme Yöntemleri",
+          "İş ve İnsan İlişkileri — Elginkan Vakfı"
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "heading": "Yetkinlikler ve Diller",
+    "clinical": {
+      "title": "Klinik",
+      "items": [
+        "ICH-GCP",
+        "Klinik İzleme (rutin ve kapanış)",
+        "Saha Yönetimi",
+        "Çalışma Başlatma",
+        "Çalışma Ana Dosyası ve Saha / Çekirdek Dosyaları",
+        "Çalışma Öncesi ve Başlatma Ziyaretleri",
+        "Merkez Fizibilitesi ve Seçimi"
+      ]
+    },
+    "regulatory": {
+      "title": "Düzenleyici",
+      "items": [
+        "Etik Kurul (EC) ve MoH Başvuruları",
+        "IVDR / MDD Başvuruları",
+        "Düzenleyici Otorite İletişimi",
+        "Protokol / ICF / CRF Hazırlama",
+        "SOP Geliştirme"
+      ]
+    },
+    "languages": {
+      "title": "Diller",
+      "items": ["İngilizce — akıcı (sözlü, yazılı, teknik)", "Fransızca — A1"]
+    },
+    "software": {
+      "title": "Yazılım",
+      "items": ["Microsoft Office (Word, Excel, PowerPoint)"]
+    }
+  },
+  "contact": {
+    "heading": "İletişime geçin",
+    "intro": "Kıdemli klinik araştırma fırsatlarına ve iş birliklerine açığım. Bana ulaşmanın en iyi yolu e-posta veya LinkedIn.",
+    "emailLabel": "E-posta",
+    "linkedinLabel": "LinkedIn",
+    "locationLabel": "Lokasyon",
+    "location": "İzmir, Türkiye",
+    "emailCta": "E-posta gönder"
+  },
+  "footer": {
+    "tagline": "Kıdemli Klinik Araştırma Uzmanı",
+    "rights": "Tüm hakları saklıdır.",
+    "email": "E-posta",
+    "linkedin": "LinkedIn"
+  },
+  "notFound": {
+    "message": "Bu sayfa bulunamadı.",
+    "home": "Ana sayfaya dön"
+  }
+}
