@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Tuğba Erdoğanlar — Kıdemli Klinik Araştırma Uzmanı",
-    "description": "Önde gelen CRO'lar ve sponsorlarda yaklaşık yirmi yıllık klinik araştırma izleme ve yönetim deneyimine sahip Kıdemli Klinik Araştırma Uzmanı — onkoloji, nefroloji, kardiyovasküler, tıbbi cihazlar ve daha fazlası, Faz I–IV."
+    "title": "Tuğba Erdoğanlar, Kıdemli Klinik Araştırma Uzmanı",
+    "description": "Önde gelen CRO'lar ve sponsorlarda yaklaşık yirmi yıllık klinik araştırma izleme ve yönetim deneyimine sahip Kıdemli Klinik Araştırma Uzmanı. Onkoloji, nefroloji, kardiyovasküler ve tıbbi cihazlar dâhil çok sayıda alanda, Faz I-IV çalışmalarında deneyim."
   },
   "nav": {
     "about": "Hakkında",
@@ -16,7 +16,7 @@
   "hero": {
     "name": "Tuğba Erdoğanlar",
     "title": "Kıdemli Klinik Araştırma Uzmanı",
-    "tagline": "Merkez fizibilitesi ve başlatmadan izleme ve kapanışa kadar — geniş bir terapötik yelpazede yaklaşık yirmi yıllık klinik araştırma izleme ve yönetim deneyimi.",
+    "tagline": "Çok sayıda terapötik alanda, merkez fizibilitesi ve başlatmadan kapanışa kadar yaklaşık yirmi yıllık klinik araştırma izleme ve yönetim deneyimi.",
     "location": "Ankara, Türkiye",
     "email": "E-posta",
     "linkedin": "LinkedIn",
@@ -28,12 +28,12 @@
     "years": { "value": "~20", "label": "Yıl klinik araştırma" },
     "studies": { "value": "30+", "label": "İzlenen klinik çalışma" },
     "areas": { "value": "15+", "label": "Terapötik alan" },
-    "phases": { "value": "I–IV", "label": "Çalışma fazı" }
+    "phases": { "value": "I-IV", "label": "Çalışma fazı" }
   },
   "about": {
     "heading": "Profil",
-    "p1": "Önde gelen CRO'lar ve sponsorlarda yaklaşık yirmi yıllık klinik araştırma izleme ve yönetim deneyimine sahip Kıdemli Klinik Araştırma Uzmanı. Onkoloji, nefroloji, kardiyovasküler, enfeksiyon hastalıkları, aşılar ve tıbbi cihazlar dâhil geniş bir terapötik alanda; ICH-GCP, SOP'lar ve Türkiye ile uluslararası EC/MoH düzenleyici başvurularında derin uzmanlık.",
-    "p2": "Faz I–IV çalışmalarında — merkez fizibilitesi ve başlatmadan rutin izleme ve kapanışa kadar — deneyimli. Kimya mühendisliği altyapısı, her çalışmaya titiz, ayrıntı odaklı ve kaliteye dayalı bir yaklaşımın temelini oluşturuyor."
+    "p1": "Önde gelen CRO'lar ve sponsorlarda yaklaşık yirmi yıllık klinik araştırma izleme ve yönetim deneyimine sahip Kıdemli Klinik Araştırma Uzmanı. Terapötik deneyimi onkoloji, nefroloji, kardiyovasküler, enfeksiyon hastalıkları, aşılar ve tıbbi cihazları kapsıyor; ICH-GCP, SOP'lar ve Türkiye ile uluslararası EC/MoH düzenleyici başvurularında sağlam bir bilgi birikimiyle destekleniyor.",
+    "p2": "Faz I-IV çalışmalarında, merkez fizibilitesi ve başlatmadan rutin izleme ve kapanışa kadar deneyimli. Kimya mühendisliği altyapısı, her çalışmaya titiz ve ayrıntı odaklı bir yaklaşım sağlıyor."
   },
   "experience": {
     "heading": "Profesyonel Deneyim",
@@ -41,7 +41,7 @@
     "present": "Devam ediyor",
     "roles": [
       {
-        "date": "Haz 2024 – Devam ediyor",
+        "date": "Haz 2024 - Devam ediyor",
         "company": "ICON",
         "position": "Kıdemli Klinik Araştırma Uzmanı",
         "items": [
@@ -50,7 +50,7 @@
         ]
       },
       {
-        "date": "Şub 2023 – Haz 2024",
+        "date": "Şub 2023 - Haz 2024",
         "company": "IQVIA",
         "position": "Serbest Kıdemli Klinik Araştırma Uzmanı",
         "items": [
@@ -59,7 +59,7 @@
         ]
       },
       {
-        "date": "May 2020 – May 2023",
+        "date": "May 2020 - May 2023",
         "company": "PSI",
         "position": "Serbest Kıdemli Klinik Araştırma Uzmanı",
         "items": [
@@ -68,7 +68,7 @@
         ]
       },
       {
-        "date": "Haz 2019 – Ara 2019",
+        "date": "Haz 2019 - Ara 2019",
         "company": "Covance Ltd.",
         "position": "Kıdemli Klinik Araştırma Uzmanı",
         "items": [
@@ -77,7 +77,7 @@
         ]
       },
       {
-        "date": "Ağu 2017 – Eki 2018",
+        "date": "Ağu 2017 - Eki 2018",
         "company": "Inventiv Health Ltd.",
         "position": "Çalışma Başlatma Uzmanı",
         "items": [
@@ -87,7 +87,7 @@
         ]
       },
       {
-        "date": "Oca 2015 – Ağu 2017",
+        "date": "Oca 2015 - Ağu 2017",
         "company": "Occlutech Ltd.",
         "position": "Danışman",
         "items": [
@@ -97,7 +97,7 @@
         ]
       },
       {
-        "date": "Eki 2009 – Oca 2015",
+        "date": "Eki 2009 - Oca 2015",
         "company": "Cromnia CRO",
         "position": "Klinik Araştırma Yöneticisi",
         "items": [
@@ -107,7 +107,7 @@
         ]
       },
       {
-        "date": "May 2007 – Ağu 2009",
+        "date": "May 2007 - Ağu 2009",
         "company": "Kuantum CRO",
         "position": "Kıdemli CRA",
         "items": [
@@ -116,37 +116,19 @@
         ]
       },
       {
-        "date": "Eki 2005 – May 2007",
+        "date": "Eki 2005 - May 2007",
         "company": "Kuantum CRO",
         "position": "CRA / CTA",
         "items": [
           "Çalışma izleme ve düzenleyici otoritelerle iletişim.",
           "Gümrük prosedürlerine uygun olarak klinik araştırma malzemeleri, çalışma ilaçları ve biyolojik numunelerin ithalat ve ihracatı."
         ]
-      },
-      {
-        "date": "Ağu 2004 – Eki 2005",
-        "company": "Hurok Marble Turkey",
-        "position": "İhracat Departmanı Lideri",
-        "items": [
-          "Müşteri satış iletişimi ve ihracat belgelerinin hazırlanması.",
-          "Banka belgelerinin ve gümrük beyanname belgelerinin kontrolü."
-        ]
-      },
-      {
-        "date": "Ara 2001 – Haz 2003",
-        "company": "Atlas Energy Company",
-        "position": "Proje İdari Sorumlusu",
-        "items": [
-          "Teklif ve proje belgelerinin hazırlanmasına destek.",
-          "Teknik proje çevirisi ve araştırmaya dayalı raporlama."
-        ]
       }
     ]
   },
   "therapeutic": {
     "heading": "Terapötik ve Çalışma Deneyimi",
-    "intro": "30'dan fazla çalışmada oluşmuş geniş bir terapötik birikim — keşfetmek için alana veya faza göre filtreleyin.",
+    "intro": "30'dan fazla çalışmada, çok sayıda terapötik alanda deneyim. Alana veya faza göre filtreleyin.",
     "filterArea": "Terapötik alan",
     "filterPhase": "Faz",
     "all": "Tümü",
@@ -200,9 +182,9 @@
       {
         "title": "GCP ve Klinik Standartlar",
         "items": [
-          "ICH-GCP ve SOP eğitimleri — ICON, IQVIA, PSI, Covance / Merck, Pfizer",
-          "ICH-GCP — AKADEMIKA",
-          "İlaç Klinik Araştırmalarında GCP ve İzleme — ARGEFAR",
+          "ICON, IQVIA, PSI, Covance / Merck ve Pfizer'da ICH-GCP ve SOP eğitimleri",
+          "AKADEMIKA'da ICH-GCP",
+          "ARGEFAR'da İlaç Klinik Araştırmalarında GCP ve İzleme",
           "Helsinki Bildirgesi eğitimi",
           "CRA Eğitimi I ve II",
           "Klinik Araştırmalarda Hile ve Suistimal",
@@ -214,7 +196,7 @@
         "items": [
           "Türkiye'de EC / MoH başvuruları",
           "Yeni klinik araştırma düzenlemeleri",
-          "MDD 2007/47/EC — İstanbul Sanayi Odası",
+          "İstanbul Sanayi Odası'nda MDD 2007/47/EC",
           "ICH kılavuzları",
           "IVDR / MDD başvuru uygulamaları"
         ]
@@ -222,9 +204,9 @@
       {
         "title": "Çalışma ve Araştırmacı Toplantıları",
         "items": [
-          "Araştırmacı ve Monitör Toplantıları — protokol, IMP yönetimi, e-CRF, SAE raporlama",
+          "Araştırmacı ve Monitör Toplantıları (protokol, IMP yönetimi, e-CRF, SAE raporlama)",
           "RDC Çalıştayı",
-          "LAA Konferansı — kateter bazlı sol atriyal apendiks kapatma",
+          "Kateter bazlı sol atriyal apendiks kapatma üzerine LAA Konferansı",
           "Uluslararası ekip çalışma toplantıları"
         ]
       },
@@ -239,7 +221,7 @@
           "Zaman Yönetimi",
           "Liderlik ve Motivasyon",
           "Problem Çözme Yöntemleri",
-          "İş ve İnsan İlişkileri — Elginkan Vakfı"
+          "İş ve İnsan İlişkileri, Elginkan Vakfı"
         ]
       }
     ]
@@ -270,7 +252,7 @@
     },
     "languages": {
       "title": "Diller",
-      "items": ["İngilizce — akıcı (sözlü, yazılı, teknik)", "Fransızca — A1"]
+      "items": ["İngilizce: akıcı (sözlü, yazılı, teknik)", "Fransızca: A1"]
     },
     "software": {
       "title": "Yazılım",

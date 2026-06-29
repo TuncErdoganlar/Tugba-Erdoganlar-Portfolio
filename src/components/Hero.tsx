@@ -49,6 +49,7 @@ export default function Hero() {
           <div className="mt-9 flex flex-wrap gap-3">
             <a
               href={site.cvPath}
+              download="Tugba-Erdoganlar-CV.pdf"
               className="inline-flex items-center justify-center rounded-md bg-primary px-5 py-2.5 text-sm font-medium text-bg transition-opacity hover:opacity-90"
             >
               {t("downloadCv")}

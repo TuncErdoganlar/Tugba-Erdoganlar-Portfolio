@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Tuğba Erdoğanlar — Senior Clinical Research Associate",
-    "description": "Senior Clinical Research Associate with nearly two decades of experience in monitoring and managing clinical trials across leading CROs and sponsors — oncology, nephrology, cardiovascular, medical devices and more, Phase I–IV."
+    "title": "Tuğba Erdoğanlar, Senior Clinical Research Associate",
+    "description": "Senior Clinical Research Associate with nearly two decades of experience monitoring and managing clinical trials at leading CROs and sponsors, covering oncology, nephrology, cardiovascular and medical devices across Phase I-IV studies."
   },
   "nav": {
     "about": "About",
@@ -16,7 +16,7 @@
   "hero": {
     "name": "Tuğba Erdoğanlar",
     "title": "Senior Clinical Research Associate",
-    "tagline": "Nearly two decades monitoring and managing clinical trials — from site feasibility and start-up through monitoring and close-out — across a broad therapeutic landscape.",
+    "tagline": "Nearly two decades monitoring and managing clinical trials across a wide range of therapeutic areas, from site feasibility and start-up through to close-out.",
     "location": "Ankara, Türkiye",
     "email": "Email",
     "linkedin": "LinkedIn",
@@ -28,12 +28,12 @@
     "years": { "value": "~20", "label": "Years in clinical research" },
     "studies": { "value": "30+", "label": "Clinical studies monitored" },
     "areas": { "value": "15+", "label": "Therapeutic areas" },
-    "phases": { "value": "I–IV", "label": "Trial phases" }
+    "phases": { "value": "I-IV", "label": "Trial phases" }
   },
   "about": {
     "heading": "Profile",
-    "p1": "Senior Clinical Research Associate with nearly two decades of experience in the monitoring and management of clinical trials across leading CROs and sponsors. Broad therapeutic expertise spanning oncology, nephrology, cardiovascular, infectious disease, vaccines and medical devices, with deep command of ICH-GCP, SOPs and EC/MoH regulatory submissions in Türkiye and internationally.",
-    "p2": "Experienced across Phase I–IV studies — from site feasibility and start-up through routine monitoring and close-out. A chemical-engineering background underpins a rigorous, detail-driven and quality-focused approach to every trial."
+    "p1": "Senior Clinical Research Associate with nearly two decades of experience monitoring and managing clinical trials at leading CROs and sponsors. Therapeutic experience covers oncology, nephrology, cardiovascular, infectious disease, vaccines and medical devices, backed by strong working knowledge of ICH-GCP, SOPs and EC/MoH regulatory submissions in Türkiye and abroad.",
+    "p2": "Experienced across Phase I-IV studies, from site feasibility and start-up through routine monitoring and close-out. A background in chemical engineering supports a careful, detail-focused approach to every trial."
   },
   "experience": {
     "heading": "Professional Experience",
@@ -41,7 +41,7 @@
     "present": "Present",
     "roles": [
       {
-        "date": "Jun 2024 – Present",
+        "date": "Jun 2024 - Present",
         "company": "ICON",
         "position": "Senior Clinical Research Associate",
         "items": [
@@ -50,16 +50,16 @@
         ]
       },
       {
-        "date": "Feb 2023 – Jun 2024",
+        "date": "Feb 2023 - Jun 2024",
         "company": "IQVIA",
         "position": "Freelance Senior Clinical Research Associate",
         "items": [
-          "Full-cycle site monitoring — routine through close-out — for clinical studies per Sponsor SOPs, ICH Guidelines and GCP.",
+          "Full-cycle site monitoring, from routine visits through close-out, for clinical studies per Sponsor SOPs, ICH Guidelines and GCP.",
           "Pre-study and initiation visits; oversight of study files and data quality."
         ]
       },
       {
-        "date": "May 2020 – May 2023",
+        "date": "May 2020 - May 2023",
         "company": "PSI",
         "position": "Freelance Senior Clinical Research Associate",
         "items": [
@@ -68,7 +68,7 @@
         ]
       },
       {
-        "date": "Jun 2019 – Dec 2019",
+        "date": "Jun 2019 - Dec 2019",
         "company": "Covance Ltd.",
         "position": "Senior Clinical Research Associate",
         "items": [
@@ -77,7 +77,7 @@
         ]
       },
       {
-        "date": "Aug 2017 – Oct 2018",
+        "date": "Aug 2017 - Oct 2018",
         "company": "Inventiv Health Ltd.",
         "position": "Study Start-up Specialist",
         "items": [
@@ -87,7 +87,7 @@
         ]
       },
       {
-        "date": "Jan 2015 – Aug 2017",
+        "date": "Jan 2015 - Aug 2017",
         "company": "Occlutech Ltd.",
         "position": "Consultant",
         "items": [
@@ -97,7 +97,7 @@
         ]
       },
       {
-        "date": "Oct 2009 – Jan 2015",
+        "date": "Oct 2009 - Jan 2015",
         "company": "Cromnia CRO",
         "position": "Clinical Research Manager",
         "items": [
@@ -107,7 +107,7 @@
         ]
       },
       {
-        "date": "May 2007 – Aug 2009",
+        "date": "May 2007 - Aug 2009",
         "company": "Kuantum CRO",
         "position": "Senior CRA",
         "items": [
@@ -116,37 +116,19 @@
         ]
       },
       {
-        "date": "Oct 2005 – May 2007",
+        "date": "Oct 2005 - May 2007",
         "company": "Kuantum CRO",
         "position": "CRA / CTA",
         "items": [
           "Study monitoring and liaison with regulatory authorities.",
           "Import and export of clinical trial materials, study drugs and biological samples per customs procedures."
         ]
-      },
-      {
-        "date": "Aug 2004 – Oct 2005",
-        "company": "Hurok Marble Turkey",
-        "position": "Export Department Leader",
-        "items": [
-          "Client sales contact and preparation of export documentation.",
-          "Verification of bank documents and customs declaration documents."
-        ]
-      },
-      {
-        "date": "Dec 2001 – Jun 2003",
-        "company": "Atlas Energy Company",
-        "position": "Project Administrative",
-        "items": [
-          "Supported the preparation of proposals and project documents.",
-          "Technical project translation and research-based reporting."
-        ]
       }
     ]
   },
   "therapeutic": {
     "heading": "Therapeutic & Study Experience",
-    "intro": "A broad therapeutic footprint built over 30+ studies — filter by area or phase to explore.",
+    "intro": "More than 30 studies across a wide range of therapeutic areas. Filter by area or phase to browse.",
     "filterArea": "Therapeutic area",
     "filterPhase": "Phase",
     "all": "All",
@@ -200,9 +182,9 @@
       {
         "title": "GCP & Clinical Standards",
         "items": [
-          "ICH-GCP & SOP training — ICON, IQVIA, PSI, Covance / Merck, Pfizer",
-          "ICH-GCP — AKADEMIKA",
-          "GCP & Monitoring in Drug Clinical Research — ARGEFAR",
+          "ICH-GCP and SOP training at ICON, IQVIA, PSI, Covance / Merck and Pfizer",
+          "ICH-GCP at AKADEMIKA",
+          "GCP and Monitoring in Drug Clinical Research at ARGEFAR",
           "Declaration of Helsinki training",
           "CRA Training I & II",
           "Fraud & Misconduct in Clinical Trials",
@@ -214,7 +196,7 @@
         "items": [
           "EC / MoH submissions in Türkiye",
           "New clinical-research regulations",
-          "MDD 2007/47/EC — Istanbul Chamber of Industry",
+          "MDD 2007/47/EC at the Istanbul Chamber of Industry",
           "ICH guidelines",
           "IVDR / MDD application practice"
         ]
@@ -222,9 +204,9 @@
       {
         "title": "Study & Investigator Meetings",
         "items": [
-          "Investigator & Monitor Meetings — protocol, IMP handling, e-CRF, SAE reporting",
+          "Investigator and Monitor Meetings (protocol, IMP handling, e-CRF, SAE reporting)",
           "RDC Workshop",
-          "LAA Conference — catheter-based left atrial appendage closure",
+          "LAA Conference on catheter-based left atrial appendage closure",
           "International team study meetings"
         ]
       },
@@ -239,7 +221,7 @@
           "Time Management",
           "Leadership & Motivation",
           "Problem-Solving Methods",
-          "Work & Person Relations — Elginkan Foundation"
+          "Work and Person Relations, Elginkan Foundation"
         ]
       }
     ]
@@ -270,7 +252,7 @@
     },
     "languages": {
       "title": "Languages",
-      "items": ["English — fluent (verbal, written, technical)", "French — A1"]
+      "items": ["English: fluent (verbal, written, technical)", "French: A1"]
     },
     "software": {
       "title": "Software",
